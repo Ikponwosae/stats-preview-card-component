@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ikponwosae/stats-preview-card-component](https://github.com/Ikponwosae/stats-preview-card-component)
+- Live Site URL: [https://stats-preview-card-component-ikponwosae.vercel.app/](https://stats-preview-card-component-ikponwosae.vercel.app/)
 
 ## My process
 
@@ -91,6 +91,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ikponwosae](https://www.frontendmentor.io/profile/ikponwosae)
 - Twitter - [@neneecodes](https://www.twitter.com/neneecodes)
-- Medium - 
+- Medium - [@ikponwosae](https://medium.com/@ikponwosae)
